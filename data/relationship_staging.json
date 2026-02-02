@@ -1,0 +1,1127 @@
+{
+  "last_updated": "2026-02-02T06:46:32.511079",
+  "total_relationships": 112,
+  "pending_review": 112,
+  "relationships": [
+    {
+      "source_id": "pat_d7f968ea70454eafa1130a56e2",
+      "target_id": "pat_m7et6y6hlvaffewxe2zos7ncrq",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "5S Methodology provides workplace organization and cleanliness that enables effective Gemba Kaizen practices.",
+      "discovered_at": "2026-02-02T06:31:55.754044",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023w0e00tpg8ahrjezwpt",
+      "target_id": "pat_m7et6y6hlvaffewxe2zos7ncrq",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "A3 Thinking, as a structured problem-solving method, supports continuous improvement efforts in Gemba Kaizen.",
+      "discovered_at": "2026-02-02T06:31:55.754075",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023wve518kpr3a3jgf12e",
+      "target_id": "pat_01kg5023x7eg99hsc7bkatq2jf",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Activity-Based Costing provides detailed cost information that enables more accurate cost allocation in ABC Cost Allocation.",
+      "discovered_at": "2026-02-02T06:31:55.754077",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xbed1bnd9kg5m8pqq0",
+      "target_id": "pat_01kg50240tewravhcet79z0bd8",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.8,
+      "evidence": "AI Cooperatives require AI Ethics Frameworks to ensure responsible governance and ethical AI development.",
+      "discovered_at": "2026-02-02T06:31:55.754079",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg50240tewravhcet79z0bd8",
+      "target_id": "pat_01kg5023xbed1bnd9kg5m8pqq0",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "AI Ethics Frameworks enable the formation and operation of AI Cooperatives by providing ethical guidelines.",
+      "discovered_at": "2026-02-02T06:31:55.754081",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xbed1bnd9ket2sker8",
+      "target_id": "pat_01kg5023xbed1bnd9kdhzfgd1z",
+      "relationship_type": "ENABLES",
+      "confidence": 0.75,
+      "evidence": "AI-Augmented Organizations enable AI-Assisted Engineering Optimization by integrating AI capabilities into organizational processes.",
+      "discovered_at": "2026-02-02T06:31:55.754082",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xbed1bnd9kdhzfgd1z",
+      "target_id": "pat_01kg5023xdfjhsd4s6ce5hy1sn",
+      "relationship_type": "ENABLES",
+      "confidence": 0.7,
+      "evidence": "AI-Assisted Engineering Optimization relies on AI-Powered Simulation to test and optimize engineering designs.",
+      "discovered_at": "2026-02-02T06:31:55.754083",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xbed1bnd9kdhzfgd1z",
+      "target_id": "pat_01kg5023xfergseskeq5q38czx",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.6,
+      "evidence": "AI-Assisted Engineering Optimization may conflict with API-First Design principles due to integration complexities.",
+      "discovered_at": "2026-02-02T06:31:55.754087",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xfergseskeq5q38czx",
+      "target_id": "pat_019c19b23527717a9b5086e138",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "API-First Design requires an API Abstraction Layer to create a unified and consistent interface.",
+      "discovered_at": "2026-02-02T06:31:55.754090",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023wkey887v6xabb358yq",
+      "target_id": "pat_01kg50240jfastcwdca2ctsf5h",
+      "relationship_type": "ENABLES",
+      "confidence": 0.7,
+      "evidence": "Adaptive Leadership supports Adaptive Software Development by fostering leadership that embraces change.",
+      "discovered_at": "2026-02-02T06:31:55.754091",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023x8evg9fk7ap0cgch3a",
+      "target_id": "pat_01kg5023x8evg9fk7atk2txfk0",
+      "relationship_type": "ENABLES",
+      "confidence": 0.75,
+      "evidence": "Administrative Theory provides foundational management principles that enable structured Advanced Product Quality Planning.",
+      "discovered_at": "2026-02-02T06:31:55.754096",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023x8evg9fk7as5cxmnwk",
+      "target_id": "pat_01kg5023x8evg9fk7ax23cbrbn",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.65,
+      "evidence": "Advanced Product Quality Planning's structured approach may conflict with the more fluid and emergent nature of Advertising Model in Attention Economy.",
+      "discovered_at": "2026-02-02T06:31:55.754098",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023x8evg9fk7ax23cbrbn",
+      "target_id": "pat_01kg5023x8evg9fk7as5cxmnwk",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.65,
+      "evidence": "Advertising Model's focus on rapid attention capture may conflict with the rigorous quality planning of APQP.",
+      "discovered_at": "2026-02-02T06:31:55.754099",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xfergseskex576m9tk",
+      "target_id": "pat_01kg5023xfergsesketa6bgy3f",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Aquaponics integrates aquaculture and hydroponics, enabling sustainable food production systems like Agroecology.",
+      "discovered_at": "2026-02-02T06:32:19.548623",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023w9f70agabwrtkk0gbv",
+      "target_id": "pat_01kg5023xef1s9wh9a2x0k4s3k",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "The Ansoff Matrix provides strategic growth frameworks that inform the selection of growth strategies.",
+      "discovered_at": "2026-02-02T06:32:19.548641",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xjea9ve0dqr97b8pk4",
+      "target_id": "pat_01kg5023xhf21s8k0s4rsxs1k6",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.7,
+      "evidence": "Axiomatic Design's structured systems design methodology may conflict with Autogesti\u00f3n's decentralized worker self-management approach.",
+      "discovered_at": "2026-02-02T06:32:19.548642",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xhf21s8k0s75j32fpf",
+      "target_id": "pat_01kg5023xef1s9wh99wxmpz6cg",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Automated Decision Systems use algorithms and data-driven methods, enabling algorithmic management.",
+      "discovered_at": "2026-02-02T06:32:19.548644",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xef1s9wh99wxmpz6cg",
+      "target_id": "pat_01kg5023xfergseskeskereyx88q3",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Algorithmic management can facilitate the Auction Model by automating price determination and bidding processes.",
+      "discovered_at": "2026-02-02T06:32:19.548645",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xaemr9xsmcy13gf405",
+      "target_id": "pat_01kg5023xaemr9xsmd0fgaxe86",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.95,
+      "evidence": "Agile Software Development is foundational for implementing Agile Unified Process (AUP), which is a simplified agile methodology.",
+      "discovered_at": "2026-02-02T06:32:19.548647",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xaemr9xsmcxd0eg8ek",
+      "target_id": "pat_01kg5023xaemr9xsmcy13gf405",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "The Agile Manifesto Principles underpin Agile Software Development by providing guiding precepts.",
+      "discovered_at": "2026-02-02T06:32:19.548648",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xaemr9xsmctmvqdm2s",
+      "target_id": "pat_01kg5023xaemr9xsmcy13gf405",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.9,
+      "evidence": "Agile Governance frameworks apply principles of Agile Software Development to IT governance practices.",
+      "discovered_at": "2026-02-02T06:32:19.548650",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023w4eagvvdvd78y1w6yw",
+      "target_id": "pat_01kg5023xkes99fv5f9jnqceme",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Behavioral Management theories inform Benchmarking by emphasizing measurement and comparison of organizational behaviors.",
+      "discovered_at": "2026-02-02T06:32:19.548651",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xjea9ve0dqvygt5npg",
+      "target_id": "pat_01kg5023xjea9ve0dqwkhevjfa",
+      "relationship_type": "ENABLES",
+      "confidence": 0.95,
+      "evidence": "B Corporation Model certification depends on the B Impact Assessment tool to measure social and environmental performance.",
+      "discovered_at": "2026-02-02T06:32:19.548653",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xjea9ve0dqwkhevjfa",
+      "target_id": "pat_01kg5023x0ed9tvrqaye97r6y1",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.9,
+      "evidence": "B Impact Assessment requires the B Corporation Model framework to provide context and standards for assessment.",
+      "discovered_at": "2026-02-02T06:32:19.548654",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xfergseskereyx88q3",
+      "target_id": "pat_01kg5023xge89s6mx3svz9gqd4",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.7,
+      "evidence": "Auction Model's competitive pricing mechanisms may conflict with Asset-Light Model's focus on minimizing asset ownership and risk.",
+      "discovered_at": "2026-02-02T06:32:19.548655",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xef1s9wh9a1qrpw7qf",
+      "target_id": "pat_01kg5023w2eshb12c2m56q8825",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "The Andon System's visual management tools enable effective signaling of production issues, supporting continuous improvement.",
+      "discovered_at": "2026-02-02T06:32:19.548657",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023w2eshb12c2m56q8825",
+      "target_id": "pat_01kg5023xef1s9wh9a1qrpw7qf",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.9,
+      "evidence": "Visual management principles are required for effective implementation of the Andon System.",
+      "discovered_at": "2026-02-02T06:32:19.548658",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xkes99fv5f4jpaa4at",
+      "target_id": "pat_01kg5023xfergseskereyx88q3",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.75,
+      "evidence": "Behavioral Economics challenges the purely rational assumptions underlying Auction Models by incorporating human biases.",
+      "discovered_at": "2026-02-02T06:32:19.548660",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xmek8szp5yy9m3j421",
+      "target_id": "pat_01kg5023xhf21s8k0s75j32fpf",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.8,
+      "evidence": "Principles of Beneficial AI may conflict with Automated Decision Systems if the latter lack ethical safeguards.",
+      "discovered_at": "2026-02-02T06:32:19.548661",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xhf21s8k0s2z0da16k",
+      "target_id": "pat_01kg5023xfergseskereyx88q3",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.7,
+      "evidence": "Austrian Economics' emphasis on free markets may be at odds with Auction Models that rely on structured bidding processes.",
+      "discovered_at": "2026-02-02T06:32:19.548742",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_d7f968ea70454eafa1130a56e2",
+      "target_id": "pat_m7et6y6hlvaffewxe2zos7ncrq",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "5S Methodology organizes and standardizes the workplace, which enables effective implementation of Gemba Kaizen by creating a clean and efficient environment for continuous improvement.",
+      "discovered_at": "2026-02-02T06:45:02.340246",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023w0e00tpg8ahrjezwpt",
+      "target_id": "pat_m7et6y6hlvaffewxe2zos7ncrq",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "A3 Thinking provides a structured problem-solving approach that supports the continuous improvement activities central to Gemba Kaizen.",
+      "discovered_at": "2026-02-02T06:45:02.340263",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_m7et6y6hlvaffewxe2zos7ncrq",
+      "target_id": "pat_tva3p25rfndbphglwr5x4ctxzu",
+      "relationship_type": "ENABLES",
+      "confidence": 0.7,
+      "evidence": "Gemba Kaizen's focus on real-time observation and continuous improvement can enable the adoption of Smart Manufacturing practices by identifying inefficiencies and areas for automation.",
+      "discovered_at": "2026-02-02T06:45:02.340264",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_vjo6byrnjrdlvp63nz4bdclpm4",
+      "target_id": "pat_eziqztwvdzchljkmbhwzcgztay",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.8,
+      "evidence": "Steward Ownership Governance Purpose Foundation requires shared value principles to align stakeholder interests and create sustainable value.",
+      "discovered_at": "2026-02-02T06:45:02.340266",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_eziqztwvdzchljkmbhwzcgztay",
+      "target_id": "pat_pqowmvmrjzdxnh7yo5u6hlt2lu",
+      "relationship_type": "ENABLES",
+      "confidence": 0.75,
+      "evidence": "Steward Ownership Governance provides a foundation that enables Multi Stakeholder Governance by embedding purpose and ownership structures.",
+      "discovered_at": "2026-02-02T06:45:02.340268",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xbed1bnd9kg5m8pqq0",
+      "target_id": "pat_01kg5023xdfjhsd4s6982ysax8",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "AI Cooperatives enable AI Alignment Research by fostering collaborative governance and shared objectives in AI development.",
+      "discovered_at": "2026-02-02T06:45:02.340269",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg50240tewravhcejs3qnejp",
+      "target_id": "pat_01kg5023w0e00tpg8ahrjezwpt",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "A/B Testing provides empirical data that supports structured problem-solving methodologies like A3 Thinking.",
+      "discovered_at": "2026-02-02T06:45:02.340271",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xfergseskeq5q38czx",
+      "target_id": "pat_019c19b23527717a9b5086e138",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.85,
+      "evidence": "API-First Design requires an API Abstraction Layer to implement a consistent and unified interface for software components.",
+      "discovered_at": "2026-02-02T06:45:02.340275",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023x8evg9fk7ap0cgch3a",
+      "target_id": "pat_01kg5023x8evg9fk7as5cxmnwk",
+      "relationship_type": "ENABLES",
+      "confidence": 0.7,
+      "evidence": "Administrative Theory provides foundational management principles that enable the effective operation of Advisory Boards & Governance.",
+      "discovered_at": "2026-02-02T06:45:02.340277",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023x8evg9fk7as5cxmnwk",
+      "target_id": "pat_o3nyklhai5asvdluw74y3fovaa",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.6,
+      "evidence": "Advisory Boards & Governance structures may experience tensions with the Dutch Polder Model's consensus-driven, multi-stakeholder decision-making processes due to differences in governance style and authority.",
+      "discovered_at": "2026-02-02T06:45:02.340278",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xaemr9xsmd0fgaxe86",
+      "target_id": "pat_01kg5023xaemr9xsmcy13gf405",
+      "relationship_type": "ENABLES",
+      "confidence": 0.95,
+      "evidence": "The Agile Manifesto Principles underpin Agile Software Development by providing guiding precepts.",
+      "discovered_at": "2026-02-02T06:45:23.422214",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xaemr9xsmcy13gf405",
+      "target_id": "pat_01kg5023xaemr9xsmctmvqdm2s",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Agile Software Development principles are applied within Agile Governance IT frameworks.",
+      "discovered_at": "2026-02-02T06:45:23.422229",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xaemr9xsmctmvqdm2s",
+      "target_id": "pat_01kg5023xaemr9xsmcrs0gz2vg",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.7,
+      "evidence": "Agile Governance IT frameworks and Agile Governance general frameworks may have tensions due to differing scopes and implementations.",
+      "discovered_at": "2026-02-02T06:45:23.422231",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xef1s9wh9a1qrpw7qf",
+      "target_id": "pat_01kg5023xef1s9wh9a2x0k4s3k",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "The Andon System as a visual management tool enables effective problem signaling in production, which is central to the Toyota Production System.",
+      "discovered_at": "2026-02-02T06:45:23.422233",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xjea9ve0dqr97b8pk4",
+      "target_id": "pat_01kg5023xhf21s8k0s4rsxs1k6",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.6,
+      "evidence": "Axiomatic Design's structured systems design methodology may conflict with Autogesti\u00f3n's worker self-management model due to differing control and decision-making approaches.",
+      "discovered_at": "2026-02-02T06:45:23.422235",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xjea9ve0dqzfthnbhc",
+      "target_id": "pat_01kg5023xge89s6mx3jpxxrr9f",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.7,
+      "evidence": "Bauhaus Design Philosophy's emphasis on craftsmanship and design integrity may be at odds with Arts and Crafts Movement Design Principles which focus on handmade quality and social reform.",
+      "discovered_at": "2026-02-02T06:45:23.422236",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xjea9ve0dqvygt5npg",
+      "target_id": "pat_01kg5023xjea9ve0dqwkhevjfa",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "B Corporation Model certification depends on the B Impact Assessment as a measurement tool.",
+      "discovered_at": "2026-02-02T06:45:23.422238",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023w9f70agabwrtkk0gbv",
+      "target_id": "pat_01kg5023xfergseskereyx88q3",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Ansoff Matrix strategic planning enables identification of growth strategies.",
+      "discovered_at": "2026-02-02T06:45:23.422239",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023w9f70agabwrtkk0gbv",
+      "target_id": "pat_01kg5023xfergsesketa6bgy3f",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.65,
+      "evidence": "Ansoff Matrix growth strategies may conflict with sustainable food production systems like Aquaponics due to differing growth and sustainability priorities.",
+      "discovered_at": "2026-02-02T06:45:23.422241",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xfergseskex576m9tk",
+      "target_id": "pat_01kg5023xef1s9wh99wxmpz6cg",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Aquaponics as a sustainable system can be enhanced by AI for Materials Discovery to optimize resource use.",
+      "discovered_at": "2026-02-02T06:45:23.422242",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xef1s9wh99ya5936c8",
+      "target_id": "pat_01kg5023xfergseskex576m9tk",
+      "relationship_type": "ENABLES",
+      "confidence": 0.75,
+      "evidence": "Algorithmic Management enables optimization and automation in complex integrated systems like Aquaponics.",
+      "discovered_at": "2026-02-02T06:45:23.422244",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xhf21s8k0s75j32fpf",
+      "target_id": "pat_01kg5023xef1s9wh99ya5936c8",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Automated Decision Systems use AI and algorithms to perform management tasks, enabling Algorithmic Management.",
+      "discovered_at": "2026-02-02T06:45:23.422245",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xmek8szp5yy9m3j421",
+      "target_id": "pat_01kg5023xhf21s8k0s75j32fpf",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.7,
+      "evidence": "Beneficial AI principles are required to guide the ethical development and deployment of Automated Decision Systems.",
+      "discovered_at": "2026-02-02T06:45:23.422246",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xkes99fv5f4jpaa4at",
+      "target_id": "pat_01kg5023xmek8szp5yy9m3j421",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.7,
+      "evidence": "Behavioral Economics insights may create tensions with Beneficial AI due to differing assumptions about rationality and decision-making.",
+      "discovered_at": "2026-02-02T06:45:23.422248",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xkes99fv5f6tzdxtwq",
+      "target_id": "pat_01kg5023xkes99fv5f4jpaa4at",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Behavioral Management theories enable application of Behavioral Economics in organizational contexts.",
+      "discovered_at": "2026-02-02T06:45:23.422249",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xkes99fv5f9jnqceme",
+      "target_id": "pat_01kg5023xhf21s8k0s75j32fpf",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Benchmarking practices enable Bias Audits by providing comparative data for evaluation.",
+      "discovered_at": "2026-02-02T06:45:23.422251",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xfergseskereyx88q3",
+      "target_id": "pat_01kg5023xfergsesketa6bgy3f",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.6,
+      "evidence": "Growth strategies focused on expansion may conflict with sustainable and ecological approaches like Aquaponics.",
+      "discovered_at": "2026-02-02T06:45:23.422252",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg50240vft1bjmxszvc6mybj",
+      "target_id": "pat_01kg50240sfm8re6enywbq3x5s",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "The Business Model Canvas (BMC) provides a strategic framework that enables effective Business Process Reengineering by clarifying business components.",
+      "discovered_at": "2026-02-02T06:45:46.654526",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg50240sfm8re6enywbq3x5s",
+      "target_id": "pat_01kg5023xwf518k5w2s6gcecap",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.8,
+      "evidence": "Business Process Reengineering often requires process maturity and improvement frameworks like CMMI for Development to ensure successful implementation.",
+      "discovered_at": "2026-02-02T06:45:46.654551",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xve9saxvbke9pt1zne",
+      "target_id": "pat_01kg5023xve9saxvbkcrkzc4jy",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.95,
+      "evidence": "Circular Economy Design Principles are required to effectively implement the Circular Economy framework.",
+      "discovered_at": "2026-02-02T06:45:46.654554",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xve9saxvbkcrkzc4jy",
+      "target_id": "pat_01kg5023xrfartbgnspf0z90tq",
+      "relationship_type": "ENABLES",
+      "confidence": 0.75,
+      "evidence": "Applying Circular Economy Design Principles enables Carbon-Neutral Design by promoting sustainable resource use and minimizing waste.",
+      "discovered_at": "2026-02-02T06:45:46.654557",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xpf5gvhpaphc1bp5vv",
+      "target_id": "pat_01kg5023xpf5gvhpapj70xrcn8",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.85,
+      "evidence": "The British Cooperative Movement's emphasis on collective ownership and democratic control can create tensions with the Brokerage Model's third-party intermediary focus.",
+      "discovered_at": "2026-02-02T06:45:46.654560",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xqet0abagjmymctnx3",
+      "target_id": "pat_01kg50240kf018z02b2h9yk9eq",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "CAD/CAM Integration enables effective Work Cell Design in Cellular Manufacturing by providing precise digital design and manufacturing capabilities.",
+      "discovered_at": "2026-02-02T06:45:46.654563",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xqet0abagjmymctnx3",
+      "target_id": "pat_138724e2d4bd44f689fee57f76",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "CAD/CAM Integration supports Cellular Manufacturing by enabling flexible and efficient production processes.",
+      "discovered_at": "2026-02-02T06:45:46.654565",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xne3gs3g227jcvch6k",
+      "target_id": "pat_01kg5023vxetrvj5eeq840z709",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.9,
+      "evidence": "Board Governance Models like Carver Policy Governance require an overarching Board Governance framework to be effective.",
+      "discovered_at": "2026-02-02T06:45:46.654568",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xne3gs3g2247a6tg6m",
+      "target_id": "pat_01kg5023xne3gs3g227jcvch6k",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Blue Ocean Strategy / Value Innovation enables Blue Ocean Strategy by providing a method to create new market spaces through value innovation.",
+      "discovered_at": "2026-02-02T06:45:46.654570",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xxf79vb2tkgemngqkn",
+      "target_id": "pat_01kg5023xyf2svqa9gxnv15tkt",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Co-creation enables Collaborative Filtering by fostering collaborative innovation and shared input, which can enhance recommendation systems.",
+      "discovered_at": "2026-02-02T06:45:46.654572",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xyf2svqa9gxnv15tkt",
+      "target_id": "pat_01kg5023xyf2svqa9gzg5gp4t9",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Collaborative Filtering enables Collective Intelligence by aggregating individual preferences to enhance group decision-making.",
+      "discovered_at": "2026-02-02T06:45:46.654574",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xrfartbgnsrtyy4bf0",
+      "target_id": "pat_01kg5023xrfartbgnsvye4bc2j",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.8,
+      "evidence": "Care Ethics emphasizing relationships and interdependence may create tensions with traditional Cash Flow Management focused on financial metrics.",
+      "discovered_at": "2026-02-02T06:45:46.654577",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xted0bt7yxgbwk34nz",
+      "target_id": "pat_01kg5023vgec9bpzpwctk4xpv1",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Charismatic Leadership can enable Collective Leadership models by inspiring shared vision and motivating distributed authority.",
+      "discovered_at": "2026-02-02T06:45:46.654579",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023vgec9bpzpwctk4xpv1",
+      "target_id": "pat_669485d97fc44d03b0e062c80c",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.85,
+      "evidence": "Collective Leadership requires Distributed Authority Models to effectively share decision-making and responsibility.",
+      "discovered_at": "2026-02-02T06:45:46.654581",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xted0bt7yxmf7zwdg1",
+      "target_id": "pat_01kg5023xted0bt7yxpv725xc5",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.7,
+      "evidence": "Chinese Guanxi Networks based on personal relationships may create tensions with formalized technical approaches like Circuit Simulation (SPICE) that emphasize standardization.",
+      "discovered_at": "2026-02-02T06:45:46.654584",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xted0bt7yxmf7zwdg1",
+      "target_id": "pat_01kg5023xted0bt7yxjm46pxae",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.85,
+      "evidence": "Chinese Guanxi Networks' informal social capital can create tensions with Chinese State Capitalism's formal state-controlled economic structures.",
+      "discovered_at": "2026-02-02T06:45:46.654586",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xwf518k5w2pbjvqg9k",
+      "target_id": "pat_01kg5023xsf58b5cjedzr7nssh",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "CMMI for Development provides process maturity that enables effective Change Management Models for organizational transformation.",
+      "discovered_at": "2026-02-02T06:45:46.654589",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xsf58b5cjedzr7nssh",
+      "target_id": "pat_01kg5023xsf58b5cjefwzpfedw",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.75,
+      "evidence": "Reinvention Change's radical transformation approach may create tensions with Chaos Engineering's incremental experimentation in software systems.",
+      "discovered_at": "2026-02-02T06:45:46.654610",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xqet0abagjfk9c2b4m",
+      "target_id": "pat_01kg5023xrfartbgnsmzpzqbj2",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.9,
+      "evidence": "Capital Budgeting requires Break-Even Analysis to evaluate the financial viability of long-term investments.",
+      "discovered_at": "2026-02-02T06:45:46.654612",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xzf31b0j5p33g3mb95",
+      "target_id": "pat_01kg5023xzf31b0j5p4k03tgzv",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Commons Governance models provide the management frameworks necessary to implement Commons Transition Strategies effectively.",
+      "discovered_at": "2026-02-02T06:46:16.150407",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xzf31b0j5p4k03tgzv",
+      "target_id": "pat_01kg5023xzf31b0j5p02byc4c1",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Commons Transition Strategies create the socio-economic conditions that enable Commons-Based Peer Production to flourish.",
+      "discovered_at": "2026-02-02T06:46:16.150424",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023xzf31b0j5p02byc4c1",
+      "target_id": "pat_01kg5023y0eh0v55eybsaby172",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Commons-Based Peer Production supports the development of Community-Owned Production by facilitating collaborative resource and production management.",
+      "discovered_at": "2026-02-02T06:46:16.150426",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y0eh0v55ey4zj5zv74",
+      "target_id": "pat_01kg5023y0eh0v55eybsaby172",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Community-Based Resource Management empowers communities to manage resources, which is foundational for Community-Owned Production.",
+      "discovered_at": "2026-02-02T06:46:16.150427",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y0eh0v55ey9zsnv1c3",
+      "target_id": "pat_01kg5023y0eh0v55ey4zj5zv74",
+      "relationship_type": "ENABLES",
+      "confidence": 0.75,
+      "evidence": "Community Land Ownership provides the land tenure security necessary for effective Community-Based Resource Management.",
+      "discovered_at": "2026-02-02T06:46:16.150429",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_63a75a82867848b88b75581a00",
+      "target_id": "pat_01kg5023y0eh0v55ey9zsnv1c3",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.85,
+      "evidence": "Community Land Trust Development Models require Community Land Ownership as a prerequisite to acquire and retain land for community benefit.",
+      "discovered_at": "2026-02-02T06:46:16.150431",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023wffvhbb3a9kt4qh5e9",
+      "target_id": "pat_01kg5023y0eh0v55ey4zj5zv74",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Community Wealth Building approaches rely on Community-Based Resource Management to empower local economic development.",
+      "discovered_at": "2026-02-02T06:46:16.150432",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023wffvhbb3a9kt4qh5e9",
+      "target_id": "pat_01kg5023y0eh0v55eybsaby172",
+      "relationship_type": "ENABLES",
+      "confidence": 0.75,
+      "evidence": "Community Wealth Building supports Community-Owned Production by fostering local ownership and control of production means.",
+      "discovered_at": "2026-02-02T06:46:16.150434",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023vjetsaajnc11ej4vg5",
+      "target_id": "pat_01kg5023y4e708zavz9dxe8rs3",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Continuous Integration (CI) is a foundational practice that enables effective Continuous Integration/Continuous Deployment (CI/CD).",
+      "discovered_at": "2026-02-02T06:46:16.150435",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y4e708zavz7m46kh8j",
+      "target_id": "pat_01kg5023y4e708zavz9dxe8rs3",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Continuous Delivery (CD) builds upon Continuous Integration (CI) to enable automated deployment pipelines in CI/CD.",
+      "discovered_at": "2026-02-02T06:46:16.150437",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y4e708zavz9dxe8rs3",
+      "target_id": "pat_01kg5023y4e708zavza6kxdg76",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Automation is a critical enabler for Continuous Integration/Continuous Deployment (CI/CD) to achieve efficiency and reliability.",
+      "discovered_at": "2026-02-02T06:46:16.150438",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023vhev9b6swdrszd75z9",
+      "target_id": "pat_01kg5023vhev9b6swdpd3e6zy9",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.8,
+      "evidence": "Consent-Based Decision Making differs from Consensus in that it requires only no objections rather than full agreement, creating tension in decision governance.",
+      "discovered_at": "2026-02-02T06:46:16.150440",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023vhev9b6swdrszd75z9",
+      "target_id": "pat_01kg5023vdecr9aqhgm6vrn97d",
+      "relationship_type": "ENABLES",
+      "confidence": 0.75,
+      "evidence": "Consent-Based Decision Making enables the use of Consent Agendas to streamline group decision processes efficiently.",
+      "discovered_at": "2026-02-02T06:46:16.150441",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg50240vft1bjmxt5ma9nj2c",
+      "target_id": "pat_01kg50240tewravhceqph1sdsf",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Communication Frameworks provide the structured principles necessary for effective Communities of Practice to share knowledge.",
+      "discovered_at": "2026-02-02T06:46:16.150443",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg50240tewravhceqph1sdsf",
+      "target_id": "pat_01kg50240vft1bjmxt79130hbc",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.9,
+      "evidence": "The Wenger model is a specific instantiation of the broader Communities of Practice pattern.",
+      "discovered_at": "2026-02-02T06:46:16.150456",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023vafgr9ywe30zx8g6bk",
+      "target_id": "pat_01kg5023vveprts2atbbx8bejr",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Complexity Science Applications build upon Complexity Economics principles to analyze and model economic systems.",
+      "discovered_at": "2026-02-02T06:46:16.150458",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023vbe4rvttbw0f90gg19",
+      "target_id": "pat_01kg5023vafgr9ywe30zx8g6bk",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.7,
+      "evidence": "Complexity Economics provides the theoretical foundation required for applying Complexity Science in practical contexts.",
+      "discovered_at": "2026-02-02T06:46:16.150459",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y1e8htjshmc8jxka48",
+      "target_id": "pat_01kg5023vveprts2atbbx8bejr",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.6,
+      "evidence": "Complementary Currencies as parallel systems may create tensions with traditional economic models analyzed by Complexity Economics.",
+      "discovered_at": "2026-02-02T06:46:16.150461",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y3etg8p54xvv6w966b",
+      "target_id": "pat_01kg5023y3etg8p54xxg5x63ap",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Consensus-Based Design requires collaborative inquiry methods like Contextual Inquiry to gather user input effectively.",
+      "discovered_at": "2026-02-02T06:46:16.150462",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y3etg8p54xvv6w966b",
+      "target_id": "pat_01kg5023vhev9b6swdrszd75z9",
+      "relationship_type": "ENABLES",
+      "confidence": 0.75,
+      "evidence": "Consensus-Based Design benefits from Consent-Based Decision Making to facilitate group agreement in design decisions.",
+      "discovered_at": "2026-02-02T06:46:16.150464",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y2ft8sje0g9vwmgvgs",
+      "target_id": "pat_01kg5023y2ft8sje0g6nd8b9fs",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.9,
+      "evidence": "Concurrent Product Development depends on Concurrent Engineering practices to integrate product design and development processes.",
+      "discovered_at": "2026-02-02T06:46:16.150467",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y2ft8sje0g9vwmgvgs",
+      "target_id": "pat_01kg5023y2ft8sje0ga32r8sjq",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.8,
+      "evidence": "Configuration Management is required to maintain consistency and control in Concurrent Product Development.",
+      "discovered_at": "2026-02-02T06:46:16.150469",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y2ft8sje0g55emap1j",
+      "target_id": "pat_01kg50240me98tfa0ywfemjtm1",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Computer Vision for Quality Control enables automation and precision in Computer-Integrated Manufacturing.",
+      "discovered_at": "2026-02-02T06:46:16.150470",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y4e708zavzhm5vjrw2",
+      "target_id": "pat_01kg5023y4e708zavzfmvmx4yp",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Cooperative Design as a broad philosophy enables the application of specific Cooperative Design Principles by providing the foundational mindset and approach.",
+      "discovered_at": "2026-02-02T06:46:32.510535",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y5fnhb2ej693e8ms5d",
+      "target_id": "pat_01kg5023y5fnhb2ej6a0k3421w",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Cooperative Governance Models provide the democratic frameworks necessary to implement Cooperative Supply Chains effectively.",
+      "discovered_at": "2026-02-02T06:46:32.510553",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y5fnhb2ej6755c58p1",
+      "target_id": "pat_01kg5023y5fnhb2ej693e8ms5d",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Cooperative Economics as a field underpins Cooperative Governance Models by providing economic rationale and principles for democratic administration.",
+      "discovered_at": "2026-02-02T06:46:32.510555",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y5fnhb2ej693e8ms5d",
+      "target_id": "pat_01kg5023vxetrvj5eev7t7n805",
+      "relationship_type": "REQUIRES",
+      "confidence": 0.9,
+      "evidence": "The Mondragon Model is a specific instantiation of Cooperative Governance Models, requiring the general governance frameworks to be in place.",
+      "discovered_at": "2026-02-02T06:46:32.510557",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023whehgsjwtbrb92n8n3",
+      "target_id": "pat_01kg5023y5fnhb2ej6755c58p1",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Cooperative Business Models provide practical examples and structures that enable the study and application of Cooperative Economics.",
+      "discovered_at": "2026-02-02T06:46:32.510558",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y7e50rxp3ew60jdasx",
+      "target_id": "pat_01kg5023y7e50rxp3ezah018t3",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "Customer Experience Management (CXM) enables Customer Journey Mapping by focusing on designing and optimizing customer interactions.",
+      "discovered_at": "2026-02-02T06:46:32.510559",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023ycep88v76yxhd37x6q",
+      "target_id": "pat_01kg5023ycep88v76yzaxenmq1",
+      "relationship_type": "ENABLES",
+      "confidence": 0.8,
+      "evidence": "Design Patterns provide reusable solutions that enable the effective practice of Design Thinking methodologies.",
+      "discovered_at": "2026-02-02T06:46:32.510561",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023ycep88v76yzaxenmq1",
+      "target_id": "pat_01kg5023y9f3hr6tv4czbyxnw9",
+      "relationship_type": "ENABLES",
+      "confidence": 0.75,
+      "evidence": "Design Thinking as a human-centered methodology enables the application of Design for Aesthetics by emphasizing user experience and creativity.",
+      "discovered_at": "2026-02-02T06:46:32.510562",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y9f3hr6tv4kt0ya78k",
+      "target_id": "pat_01kg5023y9f3hr6tv4hpw4e4ge",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.7,
+      "evidence": "Design for Cost and Design for Corrosion Resistance can create trade-offs between minimizing expenses and investing in durability.",
+      "discovered_at": "2026-02-02T06:46:32.510564",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y8e9ssb52a1a6sx4pk",
+      "target_id": "pat_01kg5023y8e9ssb52a35ebq4yd",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.8,
+      "evidence": "Degrowth challenges the growth-oriented assumptions that may be implicit in some cultural intelligence applications focused on economic expansion.",
+      "discovered_at": "2026-02-02T06:46:32.510565",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y6fxsa08h2e6aqnr9g",
+      "target_id": "pat_01kg5023y6fxsa08h2e6aqnr9g",
+      "relationship_type": "ENABLES",
+      "confidence": 0.85,
+      "evidence": "Crowdsourcing as a practice enables the Crowdsourcing Model by providing the operational approach to source work or information from distributed groups.",
+      "discovered_at": "2026-02-02T06:46:32.510567",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg5023y7e50rxp3f3j4xbqr5",
+      "target_id": "pat_01kg50240me98tfa0z0stfk708",
+      "relationship_type": "TENSIONS_WITH",
+      "confidence": 0.75,
+      "evidence": "DAOs represent decentralized organizational forms that can be in tension with traditional DeFi centralized finance models.",
+      "discovered_at": "2026-02-02T06:46:32.510587",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    },
+    {
+      "source_id": "pat_01kg50240me98tfa0z0stfk708",
+      "target_id": "pat_01kg50240me98tfa0yyh6z7xv6",
+      "relationship_type": "ENABLES",
+      "confidence": 0.9,
+      "evidence": "DeFi models enable Cryptocurrency Finance by providing decentralized protocols and financial services.",
+      "discovered_at": "2026-02-02T06:46:32.510590",
+      "discovered_by": "gpt-4.1-mini",
+      "status": "pending_review"
+    }
+  ]
+}
