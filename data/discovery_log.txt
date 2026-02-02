@@ -1,0 +1,50 @@
+Loading patterns from database...
+  Found 1279 patterns
+
+Creating pattern clusters...
+  Created 27 clusters
+
+Loaded 30 existing relationships from staging
+
+Discovering relationships...
+  Processing cluster 1/27 (50 patterns)... found 16 relationships
+  Processing cluster 2/27 (50 patterns)... found 14 relationships
+  Processing cluster 3/27 (50 patterns)... found 20 relationships
+  Processing cluster 4/27 (50 patterns)... found 27 relationships
+  Processing cluster 5/27 (50 patterns)... found 15 relationships
+  Processing cluster 6/27 (50 patterns)... found 33 relationships
+  Processing cluster 7/27 (50 patterns)... found 15 relationships
+  Processing cluster 8/27 (50 patterns)... found 18 relationships
+  Processing cluster 9/27 (50 patterns)... found 19 relationships
+  Processing cluster 10/27 (50 patterns)... found 29 relationships
+  Processing cluster 11/27 (50 patterns)... found 16 relationships
+  Processing cluster 12/27 (50 patterns)... found 16 relationships
+  Processing cluster 13/27 (50 patterns)... found 23 relationships
+  Processing cluster 14/27 (50 patterns)... found 26 relationships
+  Processing cluster 15/27 (50 patterns)... found 29 relationships
+  Processing cluster 16/27 (50 patterns)... found 30 relationships
+  Processing cluster 17/27 (50 patterns)... found 24 relationships
+  Processing cluster 18/27 (50 patterns)... found 30 relationships
+  Processing cluster 19/27 (30 patterns)... found 10 relationships
+  Processing cluster 20/27 (50 patterns)... found 21 relationships
+  Processing cluster 21/27 (50 patterns)... found 22 relationships
+  Processing cluster 22/27 (50 patterns)... found 31 relationships
+  Processing cluster 23/27 (50 patterns)... found 22 relationships
+  Processing cluster 24/27 (50 patterns)... found 26 relationships
+  Processing cluster 25/27 (14 patterns)... found 11 relationships
+  Processing cluster 26/27 (50 patterns)... found 36 relationships
+  Processing cluster 27/27 (35 patterns)... found 20 relationships
+
+✓ Discovery complete!
+  New relationships found: 599
+  Total in staging: 629
+  Staging file: /home/ubuntu/work/context-engine/data/relationship_staging.json
+>.</em></p></body>
+</html>
+no relationships found
+  Processing cluster 27/27 (35 patterns)... found 33 relationships
+
+✓ Discovery complete!
+  New relationships found: 569
+  Total in staging: 599
+  Staging file: /home/ubuntu/work/context-engine/data/relationship_staging.json
