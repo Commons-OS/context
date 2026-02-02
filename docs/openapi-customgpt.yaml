@@ -1,0 +1,211 @@
+openapi: 3.1.0
+info:
+  title: Commons OS Context Engine
+  description: |
+    Pattern constellation queries for context-aware discovery.
+    
+    Use this API to find relevant patterns based on:
+    - **Archetype**: What type of organization (Startup, Enterprise, City, Cooperative, etc.)
+    - **Stage**: Where in the journey (Ideation, Validation, Growth, Transformation, etc.)
+    - **Domain**: What industry or sector (Technology, Finance, Healthcare, Governance, etc.)
+    
+    Example queries:
+    - "Patterns for a FinTech startup at validation stage"
+    - "Enterprise transformation patterns in manufacturing"
+    - "Governance patterns for cities"
+  version: 1.0.0
+servers:
+  - url: https://context-engine.commonsos.org/api/v1
+    description: Production API
+paths:
+  /constellations:
+    get:
+      operationId: getPatternConstellation
+      summary: Get patterns for a specific context
+      description: |
+        Returns patterns suited for a given organizational archetype, 
+        optionally filtered by journey stage and/or domain.
+      parameters:
+        - name: archetype
+          in: query
+          required: true
+          description: |
+            Organizational archetype. Options:
+            - Startup, Scaleup, SME, Enterprise
+            - Team, Individual, Family
+            - Cooperative, NGO, Government
+            - City, Village, Region
+            - Network, Ecosystem
+          schema:
+            type: string
+            enum: [Startup, Scaleup, SME, Enterprise, Team, Individual, Family, Cooperative, NGO, Government, City, Village, Region, Network, Ecosystem]
+        - name: stage
+          in: query
+          required: false
+          description: |
+            Journey stage. Options:
+            - Ideation, Discovery, Validation, MVP
+            - Product-Market Fit, Growth, Expansion
+            - Maturity, Transformation, Exit/Succession
+          schema:
+            type: string
+            enum: [Ideation, Discovery, Validation, MVP, Product-Market Fit, Growth, Expansion, Maturity, Transformation, Exit/Succession]
+        - name: domain
+          in: query
+          required: false
+          description: |
+            Industry domain. Options:
+            - Technology, Finance, Healthcare, Education
+            - Energy, Manufacturing, Retail, Agriculture
+            - Governance, Social
+          schema:
+            type: string
+            enum: [Technology, Finance, Healthcare, Education, Energy, Manufacturing, Retail, Agriculture, Governance, Social]
+        - name: min_strength
+          in: query
+          required: false
+          description: Minimum fit strength (0.0-1.0)
+          schema:
+            type: number
+            default: 0.5
+        - name: limit
+          in: query
+          required: false
+          description: Maximum patterns to return
+          schema:
+            type: integer
+            default: 50
+      responses:
+        '200':
+          description: Pattern constellation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  archetype:
+                    type: string
+                  stage:
+                    type: string
+                    nullable: true
+                  domain:
+                    type: string
+                    nullable: true
+                  patterns:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        title:
+                          type: string
+                        strength:
+                          type: number
+                        importance:
+                          type: number
+                          nullable: true
+                        specificity:
+                          type: string
+                          nullable: true
+                        score:
+                          type: number
+                  total:
+                    type: integer
+  /patterns/{title}/related:
+    get:
+      operationId: getRelatedPatterns
+      summary: Get patterns related to a specific pattern
+      description: Returns patterns connected through shared contexts or direct relationships
+      parameters:
+        - name: title
+          in: path
+          required: true
+          description: Pattern title
+          schema:
+            type: string
+        - name: limit
+          in: query
+          required: false
+          schema:
+            type: integer
+            default: 20
+      responses:
+        '200':
+          description: Related patterns
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  pattern:
+                    type: string
+                  related:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        title:
+                          type: string
+                        relationship_type:
+                          type: string
+                        shared_contexts:
+                          type: integer
+                          nullable: true
+  /archetypes:
+    get:
+      operationId: listArchetypes
+      summary: List all organizational archetypes
+      description: Returns archetypes with pattern counts
+      responses:
+        '200':
+          description: List of archetypes
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    name:
+                      type: string
+                    pattern_count:
+                      type: integer
+                    avg_strength:
+                      type: number
+  /stages:
+    get:
+      operationId: listStages
+      summary: List all journey stages
+      responses:
+        '200':
+          description: List of stages
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    name:
+                      type: string
+                    sequence:
+                      type: integer
+                    pattern_count:
+                      type: integer
+  /domains:
+    get:
+      operationId: listDomains
+      summary: List all industry domains
+      responses:
+        '200':
+          description: List of domains
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    name:
+                      type: string
+                    pattern_count:
+                      type: integer

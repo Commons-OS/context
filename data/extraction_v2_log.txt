@@ -1,0 +1,80 @@
+============================================================
+ARCHETYPE EXTRACTION PIPELINE V2
+============================================================
+Found 1282 pattern files
+Found 9 existing successful extractions
+Processing 1273 patterns with 5 workers
+Progress: 20/1273 (1.6%)
+Progress: 40/1273 (3.1%)
+Progress: 60/1273 (4.7%)
+Progress: 80/1273 (6.3%)
+Progress: 100/1273 (7.9%)
+Progress: 120/1273 (9.4%)
+Progress: 140/1273 (11.0%)
+Progress: 160/1273 (12.6%)
+Progress: 180/1273 (14.1%)
+Progress: 200/1273 (15.7%)
+Progress: 220/1273 (17.3%)
+Progress: 240/1273 (18.9%)
+Progress: 260/1273 (20.4%)
+Progress: 280/1273 (22.0%)
+Progress: 300/1273 (23.6%)
+Progress: 320/1273 (25.1%)
+Progress: 340/1273 (26.7%)
+Progress: 360/1273 (28.3%)
+Progress: 380/1273 (29.9%)
+Progress: 400/1273 (31.4%)
+Progress: 420/1273 (33.0%)
+Progress: 440/1273 (34.6%)
+Progress: 460/1273 (36.1%)
+Progress: 480/1273 (37.7%)
+Progress: 500/1273 (39.3%)
+Progress: 520/1273 (40.8%)
+Progress: 540/1273 (42.4%)
+Progress: 560/1273 (44.0%)
+Progress: 580/1273 (45.6%)
+Progress: 600/1273 (47.1%)
+Progress: 620/1273 (48.7%)
+Progress: 640/1273 (50.3%)
+Progress: 660/1273 (51.8%)
+Progress: 680/1273 (53.4%)
+Progress: 700/1273 (55.0%)
+Progress: 720/1273 (56.6%)
+Progress: 740/1273 (58.1%)
+Progress: 760/1273 (59.7%)
+Progress: 780/1273 (61.3%)
+Progress: 800/1273 (62.8%)
+Progress: 820/1273 (64.4%)
+Progress: 840/1273 (66.0%)
+Progress: 860/1273 (67.6%)
+Progress: 880/1273 (69.1%)
+Progress: 900/1273 (70.7%)
+Progress: 920/1273 (72.3%)
+Progress: 940/1273 (73.8%)
+Progress: 960/1273 (75.4%)
+Progress: 980/1273 (77.0%)
+Progress: 1000/1273 (78.6%)
+Progress: 1020/1273 (80.1%)
+Progress: 1040/1273 (81.7%)
+Progress: 1060/1273 (83.3%)
+Progress: 1080/1273 (84.8%)
+Progress: 1100/1273 (86.4%)
+Progress: 1120/1273 (88.0%)
+Progress: 1140/1273 (89.6%)
+Progress: 1160/1273 (91.1%)
+Progress: 1180/1273 (92.7%)
+Progress: 1200/1273 (94.3%)
+Progress: 1220/1273 (95.8%)
+Progress: 1240/1273 (97.4%)
+Progress: 1260/1273 (99.0%)
+
+============================================================
+EXTRACTION SUMMARY
+============================================================
+Total patterns: 1283
+Successful: 1246
+Errors: 37
+Archetype relations: 4180
+Stage relations: 3627
+Domain relations: 3760
+TOTAL RELATIONSHIPS: 11567
