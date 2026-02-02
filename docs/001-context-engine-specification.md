@@ -2,7 +2,7 @@
 
 **Date**: 2026-02-02  
 **Status**: Draft  
-**Authors**: Manus AI
+**Author**: higgerix
 
 ---
 
